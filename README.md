@@ -1,8 +1,6 @@
 ### Hello World 👋
 ## Eu sou o Ferro
 
-- 🔭 Trabalhando atualmente como estágiario na Evernex
-- 🌱 Aprendendo Java
 <div align="center">
   <a href="https://github.com/ferropng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferropng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
