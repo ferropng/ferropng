@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Eduardo Ferro
 
-🎓 Estudante de **Data Science na FIAP**  
-Apaixonado por dados, música e... macacos 🐒 
-🐍 Estudando **Python, SQL, Machine Learning e Power BI**
+- 🎓 Estudante de **Data Science na FIAP**  
+- Apaixonado por dados, música e... macacos 🐒
+- 🐍 Estudando **Python, SQL, Machine Learning e Power BI**
 
 ---
 
@@ -68,8 +68,8 @@ Curso: **Data Science**
 
 # 📫 Contato
 
-💼 LinkedIn: [www.linkedin.com/in/eduardo-ferro-b05680217/](https://www.linkedin.com/in/eduardo-ferro-b05680217/)
-📧 Email: edu_ferro1@hotmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/eduardo-ferro-b05680217/](https://www.linkedin.com/in/eduardo-ferro-b05680217/)
+- 📧 Email: edu_ferro1@hotmail.com
 
 ---
 
