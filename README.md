@@ -68,16 +68,11 @@ Curso: **Data Science**
 
 # 📫 Contato
 
-💼 LinkedIn: linkedin.com/in/eduardo-ferro-b05680217/
+💼 LinkedIn: [www.linkedin.com/in/eduardo-ferro-b05680217/](https://www.linkedin.com/in/eduardo-ferro-b05680217/)
 📧 Email: edu_ferro1@hotmail.com
 
 ---
 
 ⭐ Sempre aberto a **colaboração em projetos de dados e aprendizado contínuo.**
   ## 
-  
-  <div> 
-  <a href="https://www.linkedin.com/in/eduardo-ferro-b05680217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  </div>
  
