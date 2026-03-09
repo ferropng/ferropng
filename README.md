@@ -1,16 +1,79 @@
-# Hello World 👋
-## Eu sou o Ferro
-Apaixonado por dados, música e... macacos 🐒
-<div align="center">
-  <a href="https://github.com/ferropng">
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="ferro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ferro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/512461106631933963/974077820483538994/Bleach_Ichigo_GIF_-_Bleach_Ichigo_Rukia_-_Discover__Share_GIFs.gif">
-  </div>
-  
+# 👋 Olá! Eu sou Eduardo Ferro
+
+🎓 Estudante de **Data Science na FIAP**  
+Apaixonado por dados, música e... macacos 🐒 
+🐍 Estudando **Python, SQL, Machine Learning e Power BI**
+
+---
+
+# 🚀 Tecnologias e Ferramentas
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- Power BI
+- Jupyter Notebook
+- Git
+- GitHub
+
+---
+
+# 📚 Formação
+
+🎓 **FIAP**  
+Curso: **Data Science**
+
+---
+
+# 📜 Certificações e Cursos
+
+## Alura
+
+- Power BI Desktop: construindo meu primeiro dashboard
+- Product Manager: uma jornada em gestão de produto
+- Data Science: explorando e analisando dados
+- Data Science: testando hipóteses
+- Data Science: analisando e prevendo séries temporais
+- Data Science: testando relações com Regressão Linear
+- Machine Learning: classificação com SKLearn
+- Python para Dados: primeiros passos
+- Python: análise de dados com SQL
+
+## Udemy
+
+- SQL para Análise de Dados: Do básico ao avançado
+
+---
+
+# 📊 Áreas de Interesse
+
+- Data Science
+- Machine Learning
+- Análise de Dados
+- Business Intelligence
+- Visualização de Dados
+
+---
+
+# 📈 Atualmente estudando
+
+- Machine Learning
+- Modelos preditivos
+- Análise exploratória de dados
+- Estatística aplicada a dados
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn: linkedin.com/in/eduardo-ferro-b05680217/
+📧 Email: edu_ferro1@hotmail.com
+
+---
+
+⭐ Sempre aberto a **colaboração em projetos de dados e aprendizado contínuo.**
   ## 
   
   <div> 
