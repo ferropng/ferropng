@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Eduardo Ferro
+# 👋 Olá! Eu sou o Ferro
 
 - 🎓 Estudante de **Data Science na FIAP**  
 - Apaixonado por dados, música e... macacos 🐒
